@@ -1,0 +1,21 @@
+UN CHOCHITO PODCAST — Página de enlaces
+==========================================
+
+Archivos:
+- index.html: página web responsive sin imagen/logo para evitar problemas de carga.
+
+Enlaces incluidos:
+- Facebook
+- Instagram
+- YouTube
+- TikTok
+- Correo electrónico para contacto y auspicios
+
+PUBLICACIÓN GRATUITA EN GITHUB PAGES
+1. Entra a GitHub e inicia sesión.
+2. Crea un repositorio público llamado un-chochito-links.
+3. Sube index.html a la raíz del repositorio.
+4. En Settings > Pages, selecciona Deploy from a branch, elige main y / (root), y guarda.
+5. La página aparecerá en una dirección similar a https://TUUSUARIO.github.io/un-chochito-links/
+
+Importante: el paquete está preparado, pero todavía no está publicado. La publicación requiere completar estos pasos en una cuenta de GitHub.
